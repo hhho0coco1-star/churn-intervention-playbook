@@ -1,0 +1,10 @@
+{
+  "name": "churn-intervention-playbook",
+  "version": "1.0.0",
+  "description": "커머스 고객사의 이탈 상황을 원인-우선 3게이트(원인 규명→쿠폰 적합성→경제성)로 진단해, 세그먼트별 개입(전화 인터뷰/선별 쿠폰/제품팀 피드백/개입 안 함)을 공개 출처 근거로 판단하는 플레이북 생성 플러그인. 채널톡 AX 컨설턴트용.",
+  "author": {
+    "name": "AX 인재전쟁 2026 예선 참가자"
+  },
+  "keywords": ["churn", "cart-abandonment", "commerce", "intervention-routing", "channeltalk"],
+  "skills": "./skills/"
+}
